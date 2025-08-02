@@ -13,5 +13,6 @@ redirect_from:
 
 <img alt="PNG of My CV (page1)" src="http://Yinsight.github.io/files/CV_Yunting_Yin_page1.png" />
 <img alt="PNG of My CV2 (page2)" src="http://Yinsight.github.io/files/CV_Yunting_Yin_page2.png" />
+<img alt="PNG of My CV2 (page3)" src="http://Yinsight.github.io/files/CV_Yunting_Yin_page3.png" />
 
 
