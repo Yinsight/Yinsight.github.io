@@ -30,19 +30,19 @@ Location: Online </p>
 
 
 <h2> A Study of Aging through Speech and Language Analysis </h2>
-<p> Venue: Job Talk for Assistant Professor Position <br>
+<p> Venue: Research Job Talk for Assistant Professor Position <br>
 Date: 2025-01-13 <br>
 Location: Eastern Michigan University, MI, USA </p> 
 
 
 <h2> The Data Science Approach to Recommendation Systems </h2>
-<p> Venue: Job Talk for Lecturer Position <br>
+<p> Venue: Teaching Demo for Lecturer Position <br>
 Date: 2024-01-22 <br>
 Location: Columbia University, NY, USA </p> 
 
 
 <h2> From Data to Decisions: An Introduction to Machine Learning </h2>
-<p> Venue: Job Talk for Assistant Professor Position<br>
+<p> Venue: Teaching Demo for Assistant Professor Position<br>
 Date: 2023-11-30 <br>
 Location: Earlham College, IN, USA </p> 
 
