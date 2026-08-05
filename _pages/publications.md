@@ -11,6 +11,19 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!--- {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %} -->
 
 <p>(★ indicates research outcome with directly supervised undergraduate students)</p>
+<p>(◆ indicates research outcome with directly supervised graduate students)</p>
+
+<h1>Preprints</h1>
+
+<h2> ◆ <a href="https://arxiv.org/abs/2608.03977" target="_blank" rel="noopener noreferrer">Transfer Learning for Avian Bioacoustics under Sparse Positive Labels</a></h2>
+<p>Dhyey Patel and Yunting Yin.<br>
+Accepted to IEEE MLSP 2026.</p>
+
+<h2> ★ <a href="https://arxiv.org/abs/2506.06616" target="_blank" rel="noopener noreferrer">Interpretable Depression Detection from Social Media Text Using LLM-Derived Embeddings</a></h2>
+<p>Samuel Kim, Oghenemaro Imieye, and Yunting Yin.<br>
+Accepted to ICAI 2026.</p>
+
+<h1>Peer-Reviewed Publications</h1>
 
 <h2> <a href="https://pubmed.ncbi.nlm.nih.gov/37366320/" target="_blank" rel="noopener noreferrer"> Quantifying Healthy Aging in Older Veterans using Computational Audio Analysis </a></h2>
 <p> Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston. <br>
