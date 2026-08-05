@@ -11,11 +11,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!--- {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %} -->
 
 <p>(★ indicates research outcome with directly supervised undergraduate students)</p>
-<p>(◆ indicates research outcome with directly supervised graduate students)</p>
+<p>(<span style="font-size: 1.2em; vertical-align: -0.04em;">◆</span> indicates research outcome with directly supervised graduate students)</p>
 
 <h1>Preprints</h1>
 
-<h2> ◆ <a href="https://arxiv.org/abs/2608.03977" target="_blank" rel="noopener noreferrer">Transfer Learning for Avian Bioacoustics under Sparse Positive Labels</a></h2>
+<h2> <span style="font-size: 1.2em; vertical-align: -0.04em;">◆</span> <a href="https://arxiv.org/abs/2608.03977" target="_blank" rel="noopener noreferrer">Transfer Learning for Avian Bioacoustics under Sparse Positive Labels</a></h2>
 <p>Dhyey Patel and Yunting Yin.<br>
 Accepted to IEEE MLSP 2026.</p>
 
